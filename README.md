@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UIasad
+- 👋 Hi, I’m @Designing_asad
 - 👀 I’m interested in UI/UX Design
 - 🌱 I’m currently learning to become expert UX Designer
 - 💞️ I’m looking to collaborate on User Centered UI/UX design
