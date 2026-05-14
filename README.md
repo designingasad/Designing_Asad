@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Designing_asad
-- 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning to become expert UX Designer
-- 💞️ I’m looking to collaborate on User Centered UI/UX design
-- 📫 How to reach me asadali1556.s@gmail.com
+# hi, I'm human, named asad.
 
-<!---
-UIasad/UIasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Mid-level Product Designer & Product Partner**
+Helping technical teams and founders build sleek, scalable, and human-centric digital products.
+
+### The Highlight Reel
+- **Shipped 34+ Products:** Designed and delivered mobile apps and web platforms using robust design systems for seamless engineering handoffs.
+- **Product Psychology:** Focused on aligning user behavior with business growth and core metrics.
+- **Vibe Coding:** Leveraging AI developer tools (Cursor, Claude) to build and deploy my next SaaS product.
+
+### Let's Connect
+- **Collab:** Open to collaboration and new opportunities.
+- **Email:** asadali1556.s@gmail.com
+- **Network:** `@designingasad` (across all platforms)
